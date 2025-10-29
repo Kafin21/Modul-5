@@ -224,4 +224,4 @@ Dengan menerapkan fungsi-fungsi seperti createList, insertFirst, findElm, dan to
 Secara keseluruhan, penerapan singly linked list ini membantu memahami cara kerja struktur data berantai menggunakan pointer di C++ serta memperkuat konsep alokasi memori dan traversal data secara terstruktur.
 
 ## Referensi
-[1] https://www.geeksforgeeks.org/dsa/singly-linked-list-tutorial/
+[1] GeeksforGeeks. Singly Linked List Tutorial. https://www.geeksforgeeks.org/dsa/singly-linked-list-tutorial/
