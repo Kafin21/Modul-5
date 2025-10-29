@@ -219,7 +219,7 @@ penjelasan unguided 1
 ## Kesimpulan
 Singly Linked List adalah struktur data dinamis yang menggunakan pointer untuk menghubungkan setiap elemen secara berurutan. Struktur ini memungkinkan penambahan dan penghapusan data dilakukan lebih fleksibel dibandingkan array karena tidak memerlukan penggeseran elemen lain.
 
-Dengan menerapkan fungsi-fungsi seperti createList, insertFirst, findElm, dan totalInfo, program dapat melakukan pembuatan list, penambahan elemen, pencarian data, hingga perhitungan total nilai dalam list. Pemisahan kode menjadi tiga file — Singlylist.h, Singlylist.cpp, dan main.cpp — juga menunjukkan penerapan konsep modularisasi agar program lebih rapi dan mudah dikelola.
+Dengan menerapkan fungsi-fungsi seperti createList, insertFirst, findElm, dan totalInfo, program dapat melakukan pembuatan list, penambahan elemen, pencarian data, hingga perhitungan total nilai dalam list. Pemisahan kode menjadi tiga file Singlylist.h, Singlylist.cpp, dan main.cpp juga menunjukkan penerapan konsep modularisasi agar program lebih rapi dan mudah dikelola.
 
 Secara keseluruhan, penerapan singly linked list ini membantu memahami cara kerja struktur data berantai menggunakan pointer di C++ serta memperkuat konsep alokasi memori dan traversal data secara terstruktur.
 
